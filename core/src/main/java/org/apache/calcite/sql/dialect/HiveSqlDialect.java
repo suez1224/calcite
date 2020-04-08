@@ -16,6 +16,7 @@
  */
 package org.apache.calcite.sql.dialect;
 
+import com.google.common.base.Preconditions;
 import org.apache.calcite.config.NullCollation;
 import org.apache.calcite.sql.SqlCall;
 import org.apache.calcite.sql.SqlDialect;
